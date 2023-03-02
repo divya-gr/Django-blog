@@ -11,8 +11,8 @@
 #
 name: "CodeQLcode"
 
-on: [push]
-#   push:
+on:
+  push:
     
   
 #     branches: [ main,featurebranch,Divyabranch]
